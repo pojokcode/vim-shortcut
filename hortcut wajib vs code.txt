@@ -1,0 +1,75 @@
+windows + r
+
+code .
+
+ctrl + k lalu s   -> membuka documentasi shotcut
+
+ctrl + P 		-> mencari file berdasarkan nama
+
+CTRL + SHIFT + T  -> untuk memuka file terkhir yang di close
+
+ctrl + shift + K 	-> menghapus coding sebaris sekaligus
+
+CTRL + TAB 		-> pindah tab editor
+
+CTRL + \ 		-> untuk membuka split tab
+
+CTRL + SHIFT + UP or Down -> untuk mengcopy code 1 baris
+
+CTRL + ALT + up or down -> untuk menambahkan kursor keatas atau kebawah
+
+CTRL + ~ 		-> membuka terminal dengan cepat
+
+CTRL + D 		-> menyeleksi kata yang sama
+
+CTRL + SHIFT + L 	-> untuk menyeleksi kata yang sama sekaligus
+
+CTRL + B 		-> untuk menutup side bar
+
+CTRL + SHIFT + M 	-> membuka tab error
+
+CTRL + / 		-> untuk membuat komentar
+
+CTRL + Space 	-> utntuk memunculan sugest code
+
+----------basic editing ----------------
+CTRL 	+ SHIFT + P 	-> coment palet
+HOME 				-> pindah kursor ke wal baris
+END 				-> pindah kursor ke akhir baris
+CTRL 	+ ENTER 		-> turun ke baris bawahnya
+
+CTRL 	+ SHIT + ENTER 	-> pindah ke bagian atas baris
+ALT 	+ panah bawah/atas-> memindahkan row ke bawah
+CTRL 	+ ShiF + K 		-> Menghapus satu baris
+
+--------Basi cSelection ------------------
+CTRL 	+ Shift + -> kanan -> untuk menyeleksi perkata
+CTRL 	+ L 			-> menyeleksi 1 baris
+ALT 	+ Klik 		-> untuk multiple select
+CTRL  + SHIFT + x 	-> buka tab extension
+CTRL  + f4			-> close tab fous
+
+-----basi navigasi --------
+CTRL 	+ P 			-> untuk navigasi file
+CTRL 	+ SHIFT + o 	-> mencari symbil seperti function variable dll
+CTRL	+ T 			-> mencari kata pada 1 folder projek (tanda pagar)
+CTRL 	+ G 			-> unutk menuju baris tertentu
+CTRL 	+ nomor tab 	-> untuk pindah ke tab yang kita lihat berasarkan urutan dari kiri ke kanan
+CTRL 	+ Tab 		-> utuk pindah tab coidng
+CTRL  + ALT + N		-> Menambahkan New Folder
+SHIFT + f			-> Fous Folder
+CTRL  + n			-> new file on fous folder
+F2				-> Rename File Name
+
+g  f				-> TEMPATKAN KURSOR PADA LINK YANG AKAN DI BUKA FILENYA
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+------- Basic Editing Vim ------
+-Insert
+i 	-> masuk ke mode insert (sebelum karakter saa ini)
+I 	-> masuk mode insert dengan posisi kursor diawal baris
+ESC -> untuk masuk mode Normal
+
+-Append
+a 	-> masuk mode insert setelah karakter saat ini
+A	-> masuk mode insert dengan posisi kursor diakhir baris  
+ESC -> untuk masuk mode Normal
+
+-Open New Line 
+o 	-> menyisipkan baris baru dibawah baris saat ini 
+O 	-> menyisipkan baris barus diatas baris saat ini 
+ESC -> untuk masuk mode Normal
+
+-Substitusi Text
+s 	-> menghapus carakter yangdipilih dan masuk mode insert 
+S 	-> Hapus 1 row dan masuk mode insert 
+ESC -> untuk masuk mode Normal
+
+-Change Text
+cc 	-> sama dengan S
+C 	-> Masuk mode insert dan hapus dari posisi kursor ke kanan 1 baris
+ESC -> untuk masuk mode Normal
+
+-Replace Text 
+r 	-> Replace 1 carakter yang terseleksi
+R 	-> menggantikan arakter dari posisi kursor ke kanan
+ESC -> untuk masuk mode Normal
+
+-Join Text
+J 	-> Menggabungkan Text Yang ada Dibawahnya Kursor
+ESC -> untuk masuk mode Normal
+

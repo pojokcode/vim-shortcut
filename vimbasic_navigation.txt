@@ -1,0 +1,22 @@
+-- Basic Vim Navigation --
+h			-> memindahkan kursor ke kiri
+j			-> memindahkan kuror kebawah
+k 			-> memindahkan kursor ke atas
+l			-> memindahkan kursor ke kanan
+
+10j 		-> memindahkan kursor kebawah 10 baris
+
+0			-> Memindahkan kursor ke awal baris 
+$			-> Memindahkan kursor ke akhir baris
+Ctrl + f 	-> scroll down entri page
+Crrl + b 	-> scroll up entri page
+
+:0 			-> pindah ke baris pertama
+:$			-> Pindah ke baris terakhir 
+
+W			-> pindah keawal kata didepannya
+e			-> pindah ke akhir carakter kara didepannya 
+b			-> Memindahkan kursor pada awal karakter kata di belakangnya
+
+Ctrl + o 	-> Kembali ke posisi kursor sebelumnya
+Ctrl + i	-> Pndah Ke posisi Kursor Kedepannya

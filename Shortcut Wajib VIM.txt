@@ -1,0 +1,71 @@
+---Shorcut wajib VIM or NVIM ---
+
+:q  or :quit   -> untuk keluar dari form
+:w  or :write  -> untuk menulis hasil ketik kedalam file (simpan)
+:wq				-> simpan dan keluar
+:q!				-> Keluar dan jangan simpan
+escape			-> normalmode
+i				-> insert mode
+v				-> visual mode yaratnya harus normal mode dulu, ini unutk block dengan panah ke bawah dan tekan d untuk deletenya
+H 				-> kiri
+j 				-> bawah
+k 				-> atas
+l 				-> Kanan
+:ter				-> untuk membuka terminal
+0 atau home			-> memindahkan kursor keawal line
+$ 				-> cursor ke end of line
+0 				-> cursor ke awal dari baris
+end				-> memindahkan kursor ke akhir line
+gg				-> memindahkan kursor keawal file
+W				-> memindahkan kursor ke kata berikutnya tanpa sepasi
+3W				-> memindahkan kursor ke 3 kata berikutnya
+b				-> memindahkan kursor ke kata sebelumnya
+3b				-> memindahkan kursor ke 3 kata sebelunya
+G				-> memindahkan kursor ke akhir dari halaman
+(				-> memindahkankursor ke paragraf seblumnya
+)				-> memindahkan kursor ke pararaf berikutnya
+dd				-> menghapus kata 1 baris
+dw				-> menghapus kata 1 baris kekana
+d$				-> menghapus kata sampai akhir line
+d0				-> menghapus kata sampai awal line
+U				-> untuk undo
+CTRL + r			-> Rendo
+Yp				-> duplicate line code
+yyp				-> sama duplicate line code
+CTRL + panah		-> move code (di vs code sama jika pakai plugins vim)
+:m+1				-> pindah 1 baris kebawah
+:m-1				-> pindah 1 baris keatas
+d				-> delete file, delete code yang di seleksi dengan view mode
+:e newfolder/newfile.ext -> membuat file baru di folder baru
+:f newfolder/newfile.ext -> untuk mengcopy file dari file yang terbuka
+
+-- melakkan pencarian
+1. normal mode
+2. tekan sles dan diikuti kaa yang di cari
+3. tekan enter
+4. nextcari ke row berikutnya gunakan n (kecil) ke row sbelumnya N (besa)
+
+
+ggn -> meletakan kursor baris pertama dan meletakan pada kata yang di cari paling atas
+GN untuk mencari kata ping akhir
+
+
+:t. duplicate line kebawah
+:t 2 duplicate dan taruh di line 2 berikutnya
+
+:m+   geser 1 baris kebawa
+:m-2  geser 1 baris keatas
+
+shift + v y p   -> Duplicate 1 row kebawah
+
+Get-Alias
+
+ni filename
+
+
+
+
+
+
+
+
