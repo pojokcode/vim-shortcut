@@ -1,0 +1,22 @@
+-- Revisi atau Editing Data --
+x	-> Hapus carakter pada posisi kursor
+X 	-> Delete previous carakter from kursor position
+y	-> Copy single carakter pada posisi kursor
+p 	-> Paste carakter setelah posisi kursor 
+P 	-> Paste carakter sebelum posisi kursor 
+
+dw 	-> hapus kata dari posisi kursor
+D 	-> Hapus 1 line dari posisi kursor ke kanan
+dd 	-> Delete 1 line 
+Y	-> Copy 1 line 
+yy	-> Copy 1 line 
+bdw	-> menghapus 1 kata
+diw	-> menghapus 1 hata pada posisi kursor
+
+
+u	-> Undo 
+3u 	-> Undo 3 kali 
+ctrl + r -> Redo
+:m+	-> pindahkan kebawah 1 baris
+:m+3 -> Pindah 3 baris kebawah 
+:m-2 -> pindah 1 baris keatas
