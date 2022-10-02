@@ -1,0 +1,30 @@
+--- pencarian pada vim -----
+buka file nvim -u NONE index.html
+
+/<isi kata yang dicari>
+n -> untuk nextkebawah
+N -> untuk next keatas
+
+?<<isi kata yang dicari>
+n -> untuk keatas 
+N -> Untuk kebawah
+
+pencarian dalam vim akan di mulai dari posisi kursor saat ini
+
+gg -> memindahkan kursor ke posisi pertama file  
+ggn -> penarian pada awal baris
+
+GN -> pencarian dari posisi paling bawah 
+
+pencarian kata berdasarkan karakter yang terpilih
+gunakan tombol * (pencarian kata kedepan)
+atau # (penarian kata kebelakang)
+
+:set hlsearh     -> untuk mengaktivekan penanda
+:set nohlsearch  -> untuk nonactivekan penanda
+
+increamental search (melakukan search sudah dimulai tanpa menekan enter terlebih dahulu)
+:set incsearch -> untuk mengacivekan incremant pencaran 
+:set noincsearch -> untuk nonactivekan incremant pencarian
+
+
