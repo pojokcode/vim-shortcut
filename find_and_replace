@@ -1,0 +1,11 @@
+:awalrow,akhirrow s/kata_kunci/katapengganti/g (global) i (insensitive) I (case sensitive) c (tanya yang mau diganti)
+
+:set hlsearh     -> untuk mengaktivekan penanda
+:set nohlsearch  -> untuk nonactivekan penanda
+
+:set incsearch -> untuk mengacivekan incremant pencaran 
+:set noincsearch -> untuk nonactivekan incremant pencarian
+
+:14,17s/Selamat/Se/gic
+:%s/Selamat/Se/gIc
+:14,17s/\<Selamat\>/Se/gic   hanya terpilih kata yang benar2 sama
